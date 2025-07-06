@@ -3,6 +3,6 @@
 	display:flex;
 	flex-direction:column;
 }
-.radios div:nth-child(even){
+.input:nth-child(even){
 	color:red;
 }
